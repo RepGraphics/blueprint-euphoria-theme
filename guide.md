@@ -8,7 +8,7 @@ To get started ensure you have Pterodactyl Installed & Blueprint Framework!
 - Navigate to your Pterodactyl Directory usually: `/var/www/pterodactyl`
 - Move the euphoriatheme.blueprint file to that directory Example: `mv /home/username/Downloads/euphoriatheme.blueprint /var/www/pterodactyl`
 - Run `blueprint -install euphoriatheme`
-- Follow Install Guide.
+- Follow Install Steps.
 
 ## Player List Steps
 - Rename your Server/Container to your Game Servers IP:Port,
