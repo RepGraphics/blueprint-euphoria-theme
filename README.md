@@ -1,6 +1,6 @@
 # Project Overview
 
-This project introduces several UI enhancements and customizations for both the client and admin areas, along with a comprehensive support list for a variety of games. Below is an outline of the features and supported games.
+This project introduces several UI enhancements and customizations for both the client areas, along with a comprehensive support list for a variety of games. Below is an outline of the features and supported games.
 
 ## Current Features
 
