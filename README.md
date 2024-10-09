@@ -4,13 +4,12 @@ This project introduces several UI enhancements and customizations for both the 
 
 ## Key Features
 
-- **UI Enhancements for Client and Admin Areas**: Modernized UI elements for both clients and administrators, providing a more streamlined experience.
-- **Copyright Footer Customization**: Modify the footer with your own copyright information.
+- **UI Enhancements for Client Areas**: Modernized UI elements for clients, providing a more streamlined experience.
+- **Copyright Footer Changes**: Modified the footer to be more Discrete.
 - **Status Glow for Server Containers**: Easily identify server statuses (Offline, Starting, Online) with glowing indicators.
 - **Interactive UI Hover Effects**: UI elements are highlighted when hovered over for an interactive feel.
 - **Server ID Copy Feature**: The Server ID is now displayed on the Console Page, complete with a click-to-copy functionality for quick access.
 - **Themed UI**: Overall red and black aesthetic applied across the interface for a bold visual presence.
-- **Animated Gradient Navbar Shadow**: The navigation bar features a subtle, animated gradient shadow effect.
 - **Hover Scaling for Server Containers**: Server containers dynamically scale when hovered, providing responsive feedback.
 - **Player Count and Player List**: View server player count and player lists for games that support this feature.
 
@@ -53,11 +52,11 @@ The following games are fully supported by the system:
 
 Below are some screenshots of the system in action.
 
-| ![Screenshot 1](path/to/image1.png) | ![Screenshot 2](path/to/image2.png) |
+| ![Screenshot 1](https://github.com/user-attachments/assets/05fe48ac-d750-43f8-9b86-d7775834975a) | ![Screenshot 2](https://github.com/user-attachments/assets/0b99d9bc-0194-4e77-a954-45fe53a0ea1e) |
 |:----------------------------------:|:----------------------------------:|
-| Feature 1 Description              | Feature 2 Description              |
+| Player List Feature                | Console Page Changes               |
 
-| ![Screenshot 3](path/to/image3.png) | ![Screenshot 4](path/to/image4.png) |
+| ![Screenshot 3]https://github.com/user-attachments/assets/49c60a44-9cae-427b-9564-2cd444008566) | ![Screenshot 4](https://github.com/user-attachments/assets/b312973c-3be0-441d-8daf-24e261cc8dbb) |
 |:----------------------------------:|:----------------------------------:|
-| Feature 3 Description              | Feature 4 Description              |
+| Account Settings Changes           | Client Landing Page Changes        |
 
