@@ -2,7 +2,7 @@
 
 This project introduces several UI enhancements and customizations for both the client and admin areas, along with a comprehensive support list for a variety of games. Below is an outline of the features and supported games.
 
-## Key Features
+## Current Features
 
 - **UI Enhancements for Client Areas**: Modernized UI elements for clients, providing a more streamlined experience.
 - **Copyright Footer Changes**: Modified the footer to be more Discrete.
