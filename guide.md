@@ -48,15 +48,3 @@ The following games are supported by the system (Not all are tested):
 - vRising
 - Valheim
 
-## Screenshots
-
-Below are some screenshots of the system in action.
-
-| ![Screenshot 1](https://github.com/user-attachments/assets/05fe48ac-d750-43f8-9b86-d7775834975a) | ![Screenshot 2](https://github.com/user-attachments/assets/0b99d9bc-0194-4e77-a954-45fe53a0ea1e) |
-|:----------------------------------:|:----------------------------------:|
-| Player List Feature                | Console Page Changes               |
-
-| ![Screenshot 3](https://github.com/user-attachments/assets/c437ce44-3eed-48d8-abd0-0584c4a30c96) | ![Screenshot 4](https://github.com/user-attachments/assets/b312973c-3be0-441d-8daf-24e261cc8dbb) |
-|:----------------------------------:|:----------------------------------:|
-| Account Settings Changes           | Client Landing Page Changes        |
-
