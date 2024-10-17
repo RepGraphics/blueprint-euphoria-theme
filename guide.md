@@ -11,9 +11,9 @@ To get started ensure you have Pterodactyl Installed & Blueprint Framework!
 - Follow Install Steps.
 
 ## Player List Steps
-- Rename your Server/Container to your Game Servers IP:Port,
+- Set your Server/Container Description to your Game Name e.g minecraft,
 - Navigate Back to the Console page of the Server/Container.
-- For initial fetching it can take a few minutes.
+- For initial fetching it can take a minute.
 
 ## Player List Supported Games
 The following games are supported by the system (Not all are tested):
