@@ -6,7 +6,7 @@ To get started ensure you have Pterodactyl Installed & Blueprint Framework!
 - Extract the Zip Files.
 - Transfer the euphoriatheme.blueprint file to your VM or Server.
 - Navigate to your Pterodactyl Directory usually: `/var/www/pterodactyl`
-- run/enter into terminal `composer require socialiteproviders/discord`
+- run/enter into terminal within the Pterodactyl Directory `composer require socialiteproviders/discord`
 - Move the euphoriatheme.blueprint file to that directory Example: `mv /home/username/Downloads/euphoriatheme.blueprint /var/www/pterodactyl`
 - Run `blueprint -install euphoriatheme`
 - Follow Install Steps.
