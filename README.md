@@ -18,6 +18,7 @@ This project introduces several UI enhancements and customizations for both the 
 - **Server Backgrounds**: Admins can set Egg Based Custom Server Container Backgrounds.
 - **Page Backgrounds**: Admins can set Login & Client Area Page Backgrounds,
 - **Primary Color**: Admins can set the Themes Primary Color, helping make the theme their own!
+- **Server Sorting**: Clients can change the order that their Servers are listed in!
 
 ## Screenshots
 
