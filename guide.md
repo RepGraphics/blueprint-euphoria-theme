@@ -16,6 +16,6 @@ To get started ensure you have Pterodactyl Installed & Blueprint Framework!
 - For initial fetching it can take a minute.
 
 ## Laravel Logs
-- TO access this head to Admin View,
+- To access this head to Admin View,
 - It will show in the Navigation Bar (Euphoria Theme)
 - It will show in the Blueprint Addons Page (Standalone Addon)
