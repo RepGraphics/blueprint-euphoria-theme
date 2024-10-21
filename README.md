@@ -23,8 +23,7 @@ This project introduces several UI enhancements and customizations for both the 
 
 Below are some screenshots of the system in action.
 
-| ![image](https://github.com/user-attachments/assets/75199b36-47c8-45a7-b38d-c12e23102187) | ![image](https://github.com/user-attachments/assets/06b91881-94b4-46a8-b93e-245a43813cb8)
- |
+| ![image](https://github.com/user-attachments/assets/75199b36-47c8-45a7-b38d-c12e23102187) | ![image](https://github.com/user-attachments/assets/06b91881-94b4-46a8-b93e-245a43813cb8) |
 |:----------------------------------:|:----------------------------------:|
 | Player List Feature                | Console Page Changes               |
 
