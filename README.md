@@ -23,11 +23,12 @@ This project introduces several UI enhancements and customizations for both the 
 
 Below are some screenshots of the system in action.
 
-| ![Screenshot 1](https://github.com/user-attachments/assets/05fe48ac-d750-43f8-9b86-d7775834975a) | ![Screenshot 2](https://github.com/user-attachments/assets/0b99d9bc-0194-4e77-a954-45fe53a0ea1e) |
+| ![image](https://github.com/user-attachments/assets/75199b36-47c8-45a7-b38d-c12e23102187) | ![image](https://github.com/user-attachments/assets/06b91881-94b4-46a8-b93e-245a43813cb8)
+ |
 |:----------------------------------:|:----------------------------------:|
 | Player List Feature                | Console Page Changes               |
 
-| ![Screenshot 3](https://github.com/user-attachments/assets/c437ce44-3eed-48d8-abd0-0584c4a30c96) | ![image](https://github.com/user-attachments/assets/d5c27b3f-9aca-4831-93d8-02c9a19adf3c) |
+| ![image](https://github.com/user-attachments/assets/85364917-e0ae-4f24-b80b-76ac2649fac0) | ![image](https://github.com/user-attachments/assets/d5c27b3f-9aca-4831-93d8-02c9a19adf3c) |
 |:----------------------------------:|:----------------------------------:|
 | Account Settings Changes           | Client Landing Page Changes        |
 
