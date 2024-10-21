@@ -1,6 +1,11 @@
 # Known Bugs
-Current known bugs, below you can view the list and how to fix them.
+Current known bugs, below you can view the list and how to fix them (If possible without Update).
 
-## Bug List
-- Uninstall Bug, that Sometimes Causes Issues with Blueprint
-Fix: `Reinstall Blueprint From Scratch`
+## Euphoria Theme
+- Issues with Navigation bar Width on Mobile Devices.
+
+## Player Listing
+- If Port the Server is running on isn't the Query Port, Data can't be fetched.
+
+## Laravel Logs
+- No Bugs Currently!
