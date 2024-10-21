@@ -12,6 +12,12 @@ This project introduces several UI enhancements and customizations for both the 
 - **Themed UI**: Overall red and black aesthetic applied across the interface for a bold visual presence.
 - **Hover Scaling for Server Containers**: Server containers dynamically scale when hovered, providing responsive feedback.
 - **Player Count and Player List**: View server player count and player lists for games that support this feature.
+- **Announcements**: Admins can create Announcements that show on the Server List Page.
+- **Profiles**: Clients can set profile pictures using url.
+- **Laravel Logs**: Admins can view and Download Laravel Logs from the Admin View.
+- **Server Backgrounds**: Admins can set Egg Based Custom Server Container Backgrounds.
+- **Page Backgrounds**: Admins can set Login & Client Area Page Backgrounds,
+- **Primary Color**: Admins can set the Themes Primary Color, helping make the theme their own!
 
 ## Screenshots
 
