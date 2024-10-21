@@ -1,4 +1,4 @@
-# Project Overview
+# Project Overview (Euphoria Theme Only)
 
 This project introduces several UI enhancements and customizations for both the client areas, along with a comprehensive support list for a variety of games. Below is an outline of the features and supported games.
 
@@ -12,41 +12,6 @@ This project introduces several UI enhancements and customizations for both the 
 - **Themed UI**: Overall red and black aesthetic applied across the interface for a bold visual presence.
 - **Hover Scaling for Server Containers**: Server containers dynamically scale when hovered, providing responsive feedback.
 - **Player Count and Player List**: View server player count and player lists for games that support this feature.
-
-## Supported Games
-
-The following games are fully supported by the system:
-
-- ARK: Survival Ascended
-- ARK: Survival Evolved
-- Arma 3
-- Arma Reforger
-- Conan Exiles
-- Contagion
-- Counter-Strike: Global Offensive
-- DayZ
-- DayZ Mod
-- Garry's Mod
-- FiveM
-- Ground Breach
-- Insurgency
-- Insurgency Sandstorm
-- Killing Floor 2
-- Left 4 Dead 2
-- Minecraft
-- Mordhau
-- Hell Let Loose
-- PixARK
-- Project Zomboid
-- Rust
-- Space Engineers
-- Squad
-- Starbound
-- Starmade
-- The Forest
-- Unturned
-- vRising
-- Valheim
 
 ## Screenshots
 
